@@ -1,20 +1,16 @@
 {
-    "name": "com.toshi-kundesu.vlivekit-upm-test",
-    "displayName": "VLiveKit UPM Test", 
-    "version": "1.2.0",               
-    "unity": "2021.1",
-    "description": "VLiveKit UPM Test.",
+    "name": "com.toshi-kundesu.vlivekit-upmtest",
+    "displayName": "VLiveKit UPM Test",
+    "version": "0.0.1",
+    "unity": "2021.3",
+    "description": "UPM test package for Unity.",
     "author": {
-        "name": "toshi-kundesu",
-        "url": "https://github.com/toshi-kundesu"
+      "name": "toshi-kundesu",
+      "url": "https://github.com/toshi-kundesu"
     },
-    
     "keywords": [
-        "vlivekit",
-        "upm",
-        "test"
-    ],
-    
-    "dependencies": {
-    },
-}
+      "upm",
+      "test"
+    ]
+  }
+  
